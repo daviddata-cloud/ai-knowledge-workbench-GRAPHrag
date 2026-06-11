@@ -62,6 +62,31 @@ This system gives knowledge workers one interface to:
 [INSERT SCREENSHOT: answer with citations]
 
 ---
+## 🏗️ Architecture
+User input (voice or text)
+↓
+Token budget management (128k context)
+↓
+Security gate (PII/CBI redaction)
+↓
+Context engine:
+├── RAG (local wiki — 2-5 chunks, not whole DB)
+├── MCP tools (Tavily live web search)
+└── Memory (semantic + episodic + procedural)
+↓
+Agent layer (LangGraph orchestration):
+├── Router agent
+├── Wiki agent (local — Zero Trust)
+├── Web search agent (public only)
+├── Gap map agent
+├── Devil's Advocate (3 parallel sub-agents)
+└── Synthesis agent
+↓
+Harness validation (schema + citations + confidence)
+↓
+Human review gate
+↓
+Answer + citations + immutable audit log
 
 ---
 
@@ -148,4 +173,3 @@ Quick Setup — Four Things to Do
 *Built for federal mission environments. 
 All data used in screenshots is dummy/public data.*
 
-## 🏗️ Architecture
