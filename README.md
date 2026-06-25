@@ -1,7 +1,7 @@
 # 🧠 LLM + Wiki + GraphRAG Knowledge Workbench
 
 > A local-first, privacy-safe AI knowledge engine combining private wiki knowledge, live web search, GraphRAG relationship mapping, and multi-agent reasoning.  
-> Built for federal mission environments where data security, auditability, and human oversight matter.
+> Built for federal mission environments where data security, auditability, and human oversight matter. Note: dummy/public/synthetic data only used in this project.
 
 ---
 
