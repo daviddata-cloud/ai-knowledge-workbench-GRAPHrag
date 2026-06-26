@@ -1,5 +1,12 @@
 # 🧠 LLM + Wiki + GraphRAG Knowledge Workbench
 
+> **Part of a larger architecture →** This GraphRAG workbench is one component of 
+> **Crystalline AI** — a reliable-AI system design that turns complex, "raw rock" 
+> systems into ordered, optimized ones: a graph-structured team of specialized 
+> agents, with Operations Research to set the goal, causal DAGs to test what's 
+> credible, a measured improvement loop, and a human review gate. 
+> **See the full design: https://github.com/daviddata-cloud/Crystalline-AI
+> 
 > A local-first, privacy-safe AI knowledge engine combining private wiki knowledge, live web search, GraphRAG relationship mapping, and multi-agent reasoning.  
 > Built for federal mission environments where data security, auditability, and human oversight matter. Note: dummy/public/synthetic data only used in this project.
 
