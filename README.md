@@ -21,7 +21,14 @@ This system gives knowledge workers **one interface** to:
 - Detect what evidence is **MISSING** (Science Gap Map)
 - Challenge AI answers from **multiple perspectives** (Devil's Advocate)
 - All with **full audit trail** and **human review gates**
+One Interface for Regulated AI
 
+**Crystalline AI is built on the principle of Human-AI Codesign. This system gives knowledge workers one single interface to:
+**Search private institutional documents semantically — not just by keyword.
+**Find relationships between documents, entities, and topics.
+**Detect what evidence is MISSING (Science Gap Map).
+**Challenge AI answers from multiple perspectives (Devil's Advocate).
+**Operate with a full audit trail and strict human review gates.
 **Metadata & tagging (the foundation)**. **Each document carries structured metadata — controlled tags, categories, status, confidence, and wiki-links to related documents. Tags enable meaning-based search; wiki-links become the edges of the relationship graph; together they let the system reason over connections, not just keywords. AI suggests tags and a human approves, keeping them consistent and fast. Good metadata is what makes the graph, search, and reasoning accurate**
 <img width="1286" height="592" alt="image" src="https://github.com/user-attachments/assets/a711e238-8e1e-4f0d-88b6-93550ee14243" />
 <img width="922" height="897" alt="image" src="https://github.com/user-attachments/assets/50df6a5c-a989-4c4a-a97c-308df4fcf226" />
