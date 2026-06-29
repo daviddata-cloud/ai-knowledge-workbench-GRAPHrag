@@ -22,7 +22,8 @@ This system gives knowledge workers **one interface** to:
 - Challenge AI answers from **multiple perspectives** (Devil's Advocate)
 - All with **full audit trail** and **human review gates**
 
-**Metadata & tagging (the foundation)**. Each document carries structured metadata — controlled tags, categories, status, confidence, and wiki-links to related documents. Tags enable meaning-based search; wiki-links become the edges of the relationship graph; together they let the system reason over connections, not just keywords. AI suggests tags and a human approves, keeping them consistent and fast. Good metadata is what makes the graph, search, and reasoning accurate.
+**Metadata & tagging (the foundation)**. **Each document carries structured metadata — controlled tags, categories, status, confidence, and wiki-links to related documents. Tags enable meaning-based search; wiki-links become the edges of the relationship graph; together they let the system reason over connections, not just keywords. AI suggests tags and a human approves, keeping them consistent and fast. Good metadata is what makes the graph, search, and reasoning accurate**
+<img width="1286" height="592" alt="image" src="https://github.com/user-attachments/assets/a711e238-8e1e-4f0d-88b6-93550ee14243" />
 <img width="922" height="897" alt="image" src="https://github.com/user-attachments/assets/50df6a5c-a989-4c4a-a97c-308df4fcf226" />
 
 
@@ -33,9 +34,9 @@ This system gives knowledge workers **one interface** to:
 ### 1. Main Interface — Ask LLM + Six Intelligence Modes
 
 > One search box. Seven capabilities. Private wiki + live web search combined.
-<img width="1405" height="615" alt="image" src="https://github.com/user-attachments/assets/8041b6d3-68f2-4294-99d9-f38bef7021c7" />
-<img width="1044" height="992" alt="image" src="https://github.com/user-attachments/assets/123586b5-6ac6-489d-88eb-c975899292bd" />
 <img width="935" height="419" alt="image" src="https://github.com/user-attachments/assets/99ca33b9-750f-4174-bed6-8ec1497e0c8a" />
+<img width="1044" height="992" alt="image" src="https://github.com/user-attachments/assets/123586b5-6ac6-489d-88eb-c975899292bd" />
+
 
 
 ---
